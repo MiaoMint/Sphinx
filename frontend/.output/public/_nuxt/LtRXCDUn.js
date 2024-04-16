@@ -1,0 +1,1 @@
+import{_ as e}from"./DlAUqK2U.js";import{o as r,c as t,J as n}from"./6xwa8bmz.js";const s={},c={class:"px-4 py-1 rounded shadow-lg border border-white border-opacity-20"};function _(o,a){return r(),t("button",c,[n(o.$slots,"default")])}const l=e(s,[["render",_]]);export{l as _};

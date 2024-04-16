@@ -1,0 +1,1 @@
+import{_ as e}from"./DlAUqK2U.js";import{o as r,c as t,J as s}from"./6xwa8bmz.js";const c={},n={class:"border border-white border-opacity-20 p-6 rounded-lg shadow"};function _(o,a){return r(),t("div",n,[s(o.$slots,"default")])}const l=e(c,[["render",_]]);export{l as _};
